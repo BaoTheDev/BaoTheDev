@@ -1,5 +1,7 @@
 ## Greeting 👋
 
+I'm Bao
+
 About Me
 
 Third-year university student and aspiring game developer.
